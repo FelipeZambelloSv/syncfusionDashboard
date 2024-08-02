@@ -4,7 +4,7 @@ import { FiSettings, FiUsers } from 'react-icons/fi'
 import { TooltipComponent } from '@syncfusion/ej2-react-popups';
 
 import { Navbar, Footer, Sidebar, ThemeSettings } from './components'
-import { Ecommerce, Orders, Employees, Customers, Kanban, Editor, Calendar, ColorPicker, Area, Bar, Pie, Financial, ColorMapping, Pyramid, Stacked } from './pages'
+import { Ecommerce, Orders, Employees, Customers, Kanban, Editor, Calendar, ColorPicker, Area, Bar, Pie, Financial, ColorMapping, Pyramid, Stacked, Line } from './pages'
 import './App.css'
 
 const App = () => {
